@@ -1,0 +1,3 @@
+[submodule "My-First-Repo"]
+	path = My-First-Repo
+	url = https://github.com/PrameelaBellam/My-First-Repo.git
